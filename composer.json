@@ -1,0 +1,17 @@
+{
+    "name": "cristian/importadorpg",
+    "autoload": {
+        "psr-4": {
+            "Cristian\\Importadorpg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rey-86",
+            "email": "reygranhacristian@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
