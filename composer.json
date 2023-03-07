@@ -1,14 +1,15 @@
 {
-    "name": "cristian/importadorpg",
+    "name": "tarde/importadorpg",
+    "description": "importador de datos desce excel a postgres",
     "autoload": {
         "psr-4": {
-            "Cristian\\Importadorpg\\": "src/"
+            "Tarde\\Importadorpg\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Rey-86",
-            "email": "reygranhacristian@gmail.com"
+            "name": "tfermoso",
+            "email": "tomas.fermoso@gmail.com"
         }
     ],
     "require": {
