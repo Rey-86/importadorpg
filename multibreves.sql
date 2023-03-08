@@ -85,4 +85,3 @@ SELECT pg_catalog.setval('public.coches_id_seq', 1, false);
 --
 -- PostgreSQL database dump complete
 --
-
